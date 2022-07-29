@@ -3,7 +3,7 @@
 
 
 
-
+![avatar](https://avatars.mds.yandex.net/i?id=d5b2a707547e5409648cd41180075984-5221549-images-thumbs&n=13&exp=1)
 ## 1.  <a href='https://github.com/genalll/DataAnalyst/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2'>Проект: музыка больших городов</a>
  ### Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
  ### Сфера деятельности Интернет-сервисы Стриминговый сервис
